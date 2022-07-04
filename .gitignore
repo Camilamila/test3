@@ -1,21 +1,4 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
-# Local Site Directories
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-
-# Ruby Gems
-.bundle
-Gemfile.lock
-
-# Log Files
-*.log
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
